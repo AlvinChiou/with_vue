@@ -1,0 +1,7 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "vue": "1.0.25",
+    "bootstrap-sass": "latest"
+  }
+}
